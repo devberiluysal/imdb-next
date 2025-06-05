@@ -5,7 +5,7 @@ export default function About() {
     <div className='max-w-6xl mx-auto p-3 space-y-4'>
         <h1 className='text-2xl font-medium text-amber-600'>About</h1>
         <p>
-            Welcome to IMDb website! We are a team of passionate movie enthusiasts who have com together
+            Welcome to IMDb website! We are a team of passionate movie enthusiasts who have come together
             to create a website that is a clone of the popular IMDb website.
         </p>
         <p>
