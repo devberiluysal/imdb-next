@@ -14,6 +14,7 @@ export default async function MoviePage({params}) {
                 width={500}
                 height={300}
                 className='rounded-lg'
+                alt={movie.title || movie.name || 'Movie poster'}
             >
             </Image>
             <div className='p-4'>
